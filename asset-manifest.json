@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CarTravel-client/static/css/main.d5f1c448.css",
+    "main.js": "/CarTravel-client/static/js/main.fd47fef6.js",
+    "static/js/453.c525d7c0.chunk.js": "/CarTravel-client/static/js/453.c525d7c0.chunk.js",
+    "static/media/mainBanner.jpg": "/CarTravel-client/static/media/mainBanner.b7ed5f1b35d9377107b5.jpg",
+    "static/media/carlogo.webp": "/CarTravel-client/static/media/carlogo.e0a9235a5a8e12a0a9b8.webp",
+    "static/media/error image.webp": "/CarTravel-client/static/media/error image.9e1378649b68885ce0af.webp",
+    "index.html": "/CarTravel-client/index.html",
+    "main.d5f1c448.css.map": "/CarTravel-client/static/css/main.d5f1c448.css.map",
+    "main.fd47fef6.js.map": "/CarTravel-client/static/js/main.fd47fef6.js.map",
+    "453.c525d7c0.chunk.js.map": "/CarTravel-client/static/js/453.c525d7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f1c448.css",
+    "static/js/main.fd47fef6.js"
+  ]
+}
