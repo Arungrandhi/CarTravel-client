@@ -45,9 +45,5 @@ This project was developed as part of my MCA coursework to demonstrate real-time
 - 🛠 **Admin Dashboard** (Manage cars, users, bookings, and payments)  
 
 ---
-
-## ⚙️ Installation
-
-Clone the repo:  
-```bash
-git clone https://github.com/your-username/car-rental-app.git
+## Preview
+https://arungrandhi.github.io/CarTravel-client/
